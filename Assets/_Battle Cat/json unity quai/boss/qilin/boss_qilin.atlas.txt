@@ -1,0 +1,125 @@
+
+boss_qilin.png
+size: 272,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 235, 9
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 0, 0
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 81, 73
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+kuzi
+  rotate: false
+  xy: 114, 3
+  size: 45, 16
+  orig: 45, 16
+  offset: 0, 0
+  index: -1
+liulei
+  rotate: false
+  xy: 141, 73
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 60
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 153, 21
+  size: 50, 36
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 201, 52
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: false
+  xy: 201, 86
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: true
+  xy: 248, 113
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 68, 5
+  size: 44, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: false
+  xy: 161, 1
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: false
+  xy: 114, 21
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: true
+  xy: 245, 44
+  size: 30, 26
+  orig: 55, 26
+  offset: 24, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 248, 76
+  size: 35, 21
+  orig: 37, 21
+  offset: 2, 0
+  index: -1
+zuoxiaobi
+  rotate: false
+  xy: 191, 13
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: false
+  xy: 235, 24
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1

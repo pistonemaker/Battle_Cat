@@ -1,0 +1,125 @@
+
+xiaobing_gongbing2.png
+size: 156,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: true
+  xy: 134, 39
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+effects/zhijdt
+  rotate: true
+  xy: 0, 4
+  size: 140, 30
+  orig: 142, 34
+  offset: 1, 2
+  index: -1
+effects/zidang
+  rotate: false
+  xy: 116, 8
+  size: 16, 55
+  orig: 16, 56
+  offset: 0, 0
+  index: -1
+gbl_shouji
+  rotate: true
+  xy: 63, 39
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+gong
+  rotate: false
+  xy: 32, 36
+  size: 29, 108
+  orig: 29, 108
+  offset: 0, 0
+  index: -1
+gongji
+  rotate: true
+  xy: 135, 106
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+kuzi
+  rotate: true
+  xy: 71, 0
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 32, 1
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 63, 65
+  size: 79, 70
+  orig: 79, 70
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 95, 23
+  size: 19, 14
+  orig: 20, 15
+  offset: 1, 1
+  index: -1
+youshhou
+  rotate: false
+  xy: 134, 17
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 135, 86
+  size: 18, 10
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+youwan
+  rotate: true
+  xy: 95, 1
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 135, 69
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 94, 39
+  size: 20, 24
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 134, 0
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+zuowan
+  rotate: true
+  xy: 135, 126
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1

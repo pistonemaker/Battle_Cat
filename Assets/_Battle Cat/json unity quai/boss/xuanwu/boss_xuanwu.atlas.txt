@@ -1,0 +1,41 @@
+
+boss_xuanwu.png
+size: 492,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 374, 7
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 374, 43
+  size: 57, 134
+  orig: 57, 134
+  offset: 0, 0
+  index: -1
+body_0
+  rotate: false
+  xy: 0, 0
+  size: 185, 177
+  orig: 185, 181
+  offset: 0, 4
+  index: -1
+body_1
+  rotate: false
+  xy: 187, 0
+  size: 185, 177
+  orig: 185, 181
+  offset: 0, 4
+  index: -1
+body_2
+  rotate: false
+  xy: 433, 43
+  size: 57, 134
+  orig: 57, 134
+  offset: 0, 0
+  index: -1

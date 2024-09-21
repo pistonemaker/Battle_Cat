@@ -1,0 +1,27 @@
+
+xiaobing_sheshou2.png
+size: 196,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_0
+  rotate: false
+  xy: 165, 7
+  size: 28, 81
+  orig: 32, 81
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: true
+  xy: 0, 0
+  size: 88, 89
+  orig: 112, 99
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 91, 9
+  size: 79, 72
+  orig: 112, 99
+  offset: 3, 2
+  index: -1

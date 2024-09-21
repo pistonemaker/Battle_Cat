@@ -1,0 +1,146 @@
+
+yuanshao.png
+size: 432,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11422_biyan
+  rotate: true
+  xy: 409, 48
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+11422_fennu
+  rotate: false
+  xy: 408, 31
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+11422_jianjia
+  rotate: true
+  xy: 270, 1
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+11422_qunbai
+  rotate: false
+  xy: 168, 12
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+11422_shoushang
+  rotate: false
+  xy: 376, 57
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+11422_tou
+  rotate: true
+  xy: 0, 6
+  size: 78, 86
+  orig: 78, 86
+  offset: 0, 0
+  index: -1
+11422_tou_c
+  rotate: false
+  xy: 182, 56
+  size: 83, 88
+  orig: 83, 88
+  offset: 0, 0
+  index: -1
+11422_wq
+  rotate: true
+  xy: 0, 86
+  size: 58, 180
+  orig: 67, 180
+  offset: 9, 0
+  index: -1
+11422_xiong
+  rotate: false
+  xy: 88, 6
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+11422_xiong_c
+  rotate: false
+  xy: 267, 70
+  size: 74, 74
+  orig: 78, 78
+  offset: 0, 4
+  index: -1
+11422_youbi
+  rotate: false
+  xy: 336, 31
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+11422_youjiao
+  rotate: false
+  xy: 376, 88
+  size: 33, 28
+  orig: 39, 29
+  offset: 6, 1
+  index: -1
+11422_youshou
+  rotate: true
+  xy: 343, 110
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+11422_youtui
+  rotate: false
+  xy: 375, 26
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+11422_youzhang
+  rotate: false
+  xy: 343, 77
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+11422_zuobi
+  rotate: false
+  xy: 231, 1
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+11422_zuojiao
+  rotate: true
+  xy: 412, 113
+  size: 31, 19
+  orig: 31, 20
+  offset: 0, 1
+  index: -1
+11422_zuoshou
+  rotate: true
+  xy: 411, 81
+  size: 30, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+11422_zuotui
+  rotate: false
+  xy: 336, 0
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+11422_zuozhang
+  rotate: false
+  xy: 374, 118
+  size: 36, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1

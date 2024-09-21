@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c211bd8e9810b94f95b27c99ca44812, type: 3}
+  m_Name: Laze Gun Data
+  m_EditorClassIdentifier: 
+  damages: 080000000a0000000c0000000f00000012000000160000001a0000001e0000002300000028000000
+  ranges:
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 20
+  waitTimes:
+  - 120
+  - 115
+  - 110
+  - 105
+  - 100
+  - 95
+  - 90
+  - 80
+  - 70
+  - 60

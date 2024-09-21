@@ -1,0 +1,125 @@
+
+xiaobing_qiangbing4.png
+size: 224,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiji
+  rotate: false
+  xy: 123, 1
+  size: 29, 34
+  orig: 44, 35
+  offset: 6, 1
+  index: -1
+biyan
+  rotate: false
+  xy: 76, 0
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gongji
+  rotate: false
+  xy: 76, 0
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+dun
+  rotate: true
+  xy: 91, 37
+  size: 55, 52
+  orig: 56, 52
+  offset: 1, 0
+  index: -1
+kuzi
+  rotate: true
+  xy: 195, 29
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 0, 18
+  size: 89, 94
+  orig: 89, 94
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 154, 1
+  size: 39, 37
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+wq
+  rotate: true
+  xy: 91, 94
+  size: 18, 133
+  orig: 21, 134
+  offset: 1, 1
+  index: -1
+youjian
+  rotate: false
+  xy: 76, 3
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 55, 0
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+youquan
+  rotate: true
+  xy: 145, 40
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 195, 8
+  size: 19, 13
+  orig: 20, 13
+  offset: 1, 0
+  index: -1
+youwan
+  rotate: true
+  xy: 195, 73
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 0, 0
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 210, 9
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+zuoquan
+  rotate: false
+  xy: 98, 0
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 30, 0
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1

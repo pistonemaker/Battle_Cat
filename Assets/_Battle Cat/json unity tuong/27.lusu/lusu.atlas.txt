@@ -1,0 +1,132 @@
+
+lusu.png
+size: 320,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10103_biyan
+  rotate: false
+  xy: 249, 50
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+10103_chibang_y
+  rotate: true
+  xy: 193, 31
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+10103_chibang_z
+  rotate: false
+  xy: 137, 3
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+10103_fennu
+  rotate: true
+  xy: 188, 1
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+10103_qunbai
+  rotate: true
+  xy: 134, 61
+  size: 83, 57
+  orig: 83, 57
+  offset: 0, 0
+  index: -1
+10103_shoushang
+  rotate: true
+  xy: 221, 1
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+10103_tou
+  rotate: false
+  xy: 279, 50
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+10103_tou_c
+  rotate: false
+  xy: 247, 83
+  size: 49, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+10103_toufa_c
+  rotate: true
+  xy: 59, 0
+  size: 59, 76
+  orig: 59, 76
+  offset: 0, 0
+  index: -1
+10103_toufa_h
+  rotate: false
+  xy: 59, 61
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: -1
+10103_toufa_q
+  rotate: false
+  xy: 193, 83
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+10103_wq
+  rotate: false
+  xy: 0, 0
+  size: 57, 144
+  orig: 57, 144
+  offset: 0, 0
+  index: -1
+10103_xiong
+  rotate: false
+  xy: 254, 17
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+10103_youbi
+  rotate: false
+  xy: 298, 95
+  size: 19, 23
+  orig: 19, 26
+  offset: 0, 1
+  index: -1
+10103_youshou
+  rotate: false
+  xy: 284, 8
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+10103_youzhang
+  rotate: false
+  xy: 254, 3
+  size: 17, 12
+  orig: 19, 12
+  offset: 2, 0
+  index: -1
+10103_zuobi
+  rotate: false
+  xy: 298, 120
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+10103_zuoshou
+  rotate: false
+  xy: 284, 27
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1

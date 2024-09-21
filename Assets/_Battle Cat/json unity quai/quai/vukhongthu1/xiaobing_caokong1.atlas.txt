@@ -1,0 +1,27 @@
+
+xiaobing_caokong1.png
+size: 100,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiji
+  rotate: false
+  xy: 0, 0
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 52, 17
+  size: 47, 15
+  orig: 47, 15
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 0, 34
+  size: 99, 110
+  orig: 99, 110
+  offset: 0, 0
+  index: -1

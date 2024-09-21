@@ -1,0 +1,118 @@
+
+xunyu.png
+size: 264,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11520_fennu
+  rotate: true
+  xy: 59, 6
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: -1
+11520_maozi
+  rotate: false
+  xy: 0, 16
+  size: 83, 64
+  orig: 87, 64
+  offset: 4, 0
+  index: -1
+11520_maozi_1
+  rotate: true
+  xy: 220, 27
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+11520_pifeng
+  rotate: false
+  xy: 168, 27
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+11520_qunbai
+  rotate: true
+  xy: 123, 3
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+11520_shoushang
+  rotate: false
+  xy: 245, 8
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+11520_wq
+  rotate: true
+  xy: 85, 41
+  size: 39, 81
+  orig: 39, 81
+  offset: 0, 0
+  index: -1
+11520_xiong
+  rotate: false
+  xy: 85, 3
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+11520_youjiao
+  rotate: true
+  xy: 209, 4
+  size: 21, 15
+  orig: 22, 15
+  offset: 1, 0
+  index: -1
+11520_youshou
+  rotate: true
+  xy: 142, 14
+  size: 25, 24
+  orig: 25, 25
+  offset: 0, 1
+  index: -1
+11520_youtui
+  rotate: false
+  xy: 168, 5
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+11520_zuobi
+  rotate: true
+  xy: 41, 0
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+11520_zuojiao
+  rotate: false
+  xy: 0, 0
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+11520_zuoshou
+  rotate: true
+  xy: 226, 7
+  size: 18, 17
+  orig: 20, 17
+  offset: 2, 0
+  index: -1
+11520_zuotui
+  rotate: true
+  xy: 190, 5
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+11520_zuozhang
+  rotate: false
+  xy: 22, 0
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1

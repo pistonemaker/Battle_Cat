@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e1c2d2998271f47a4ac1540898d8f0, type: 3}
+  m_Name: TerritoryData
+  m_EditorClassIdentifier: 
+  territoryUnitsData:
+  - isClear: 0
+    clearCount: 0
+    territoryName: Korea
+    energyCost: 5
+  - isClear: 0
+    clearCount: 0
+    territoryName: Mongolia
+    energyCost: 5
+  - isClear: 0
+    clearCount: 0
+    territoryName: China
+    energyCost: 8
+  - isClear: 0
+    clearCount: 0
+    territoryName: Thailand
+    energyCost: 8
+  - isClear: 0
+    clearCount: 0
+    territoryName: Cambodia
+    energyCost: 10
+  - isClear: 0
+    clearCount: 0
+    territoryName: Philipines
+    energyCost: 10
+  - isClear: 0
+    clearCount: 0
+    territoryName: Japan
+    energyCost: 16
+  - isClear: 0
+    clearCount: 0
+    territoryName: Australia
+    energyCost: 12
+  - isClear: 0
+    clearCount: 0
+    territoryName: Singapore
+    energyCost: 12
+  - isClear: 0
+    clearCount: 0
+    territoryName: Maldives
+    energyCost: 14

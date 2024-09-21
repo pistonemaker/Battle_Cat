@@ -1,0 +1,160 @@
+
+zhoutai.png
+size: 312,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 0, 71
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 74, 71
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+fennu
+  rotate: false
+  xy: 148, 71
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+hongdian
+  rotate: false
+  xy: 271, 56
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+jian_b
+  rotate: true
+  xy: 0, 34
+  size: 35, 121
+  orig: 35, 121
+  offset: 0, 0
+  index: -1
+jianqiao
+  rotate: true
+  xy: 61, 13
+  size: 19, 80
+  orig: 19, 80
+  offset: 0, 0
+  index: -1
+liulei
+  rotate: false
+  xy: 222, 71
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 123, 34
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 198, 0
+  size: 67, 51
+  orig: 67, 51
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 183, 53
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: true
+  xy: 288, 5
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: true
+  xy: 217, 53
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+youpiaodai
+  rotate: true
+  xy: 143, 3
+  size: 29, 27
+  orig: 29, 29
+  offset: 0, 2
+  index: -1
+youshouzhang
+  rotate: true
+  xy: 256, 53
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 238, 53
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: true
+  xy: 290, 29
+  size: 17, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: false
+  xy: 157, 40
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: true
+  xy: 267, 28
+  size: 23, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+zuopiaodai
+  rotate: false
+  xy: 0, 5
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 267, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+zuoshoupiaodai
+  rotate: true
+  xy: 172, 9
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: true
+  xy: 290, 48
+  size: 21, 18
+  orig: 21, 19
+  offset: 0, 0
+  index: -1

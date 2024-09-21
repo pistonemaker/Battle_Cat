@@ -1,0 +1,27 @@
+
+xiaobing_jianbing2.png
+size: 168,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiji
+  rotate: true
+  xy: 117, 23
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 117, 5
+  size: 51, 16
+  orig: 51, 16
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 0, 0
+  size: 115, 77
+  orig: 115, 95
+  offset: 0, 0
+  index: -1

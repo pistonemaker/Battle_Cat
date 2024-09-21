@@ -1,0 +1,34 @@
+
+boss_zhuque.png
+size: 552,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 0, 0
+  size: 251, 181
+  orig: 251, 186
+  offset: 0, 5
+  index: -1
+w2
+  rotate: false
+  xy: 253, 0
+  size: 251, 181
+  orig: 251, 186
+  offset: 0, 5
+  index: -1
+wq1
+  rotate: false
+  xy: 506, 20
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+wq2
+  rotate: false
+  xy: 506, 50
+  size: 45, 131
+  orig: 45, 131
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+xiaobing_fashi2.png
+size: 188,896
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 0, 76
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 0, 26
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+erduo1
+  rotate: false
+  xy: 57, 112
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+erduo2
+  rotate: false
+  xy: 66, 62
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+fanu
+  rotate: false
+  xy: 140, 50
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+liulei
+  rotate: false
+  xy: 140, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: true
+  xy: 57, 143
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 50, 88
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+shui_01
+  rotate: true
+  xy: 94, 266
+  size: 195, 92
+  orig: 245, 106
+  offset: 0, 6
+  index: -1
+shui_02
+  rotate: true
+  xy: 94, 463
+  size: 205, 89
+  orig: 245, 106
+  offset: 3, 9
+  index: -1
+shui_03
+  rotate: true
+  xy: 0, 671
+  size: 224, 94
+  orig: 245, 106
+  offset: 0, 6
+  index: -1
+shui_04
+  rotate: true
+  xy: 96, 670
+  size: 225, 92
+  orig: 245, 106
+  offset: 15, 6
+  index: -1
+shui_05
+  rotate: true
+  xy: 0, 451
+  size: 218, 92
+  orig: 245, 106
+  offset: 15, 6
+  index: -1
+shui_06
+  rotate: true
+  xy: 0, 286
+  size: 163, 92
+  orig: 245, 106
+  offset: 19, 6
+  index: -1
+shui_07
+  rotate: true
+  xy: 87, 100
+  size: 164, 94
+  orig: 245, 106
+  offset: 21, 6
+  index: -1
+suolian
+  rotate: true
+  xy: 57, 182
+  size: 102, 28
+  orig: 102, 28
+  offset: 0, 0
+  index: -1
+tf
+  rotate: false
+  xy: 81, 41
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 0, 126
+  size: 55, 158
+  orig: 55, 158
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: false
+  xy: 50, 33
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 78, 21
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+ytf
+  rotate: false
+  xy: 66, 30
+  size: 10, 30
+  orig: 11, 31
+  offset: 0, 1
+  index: -1
+ztf
+  rotate: false
+  xy: 50, 48
+  size: 14, 38
+  orig: 15, 44
+  offset: 0, 6
+  index: -1
+zuobi
+  rotate: true
+  xy: 50, 10
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 100, 24
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1

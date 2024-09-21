@@ -1,0 +1,125 @@
+
+xiaobing_qiangbing2.png
+size: 508,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effects/zhuan_00001
+  rotate: true
+  xy: 105, 12
+  size: 128, 58
+  orig: 140, 105
+  offset: 8, 19
+  index: -1
+effects/zhuan_00002
+  rotate: true
+  xy: 104, 142
+  size: 130, 99
+  orig: 140, 105
+  offset: 6, 6
+  index: -1
+effects/zhuan_00003
+  rotate: true
+  xy: 0, 141
+  size: 131, 102
+  orig: 140, 105
+  offset: 5, 3
+  index: -1
+effects/zhuan_00004
+  rotate: true
+  xy: 0, 9
+  size: 130, 103
+  orig: 140, 105
+  offset: 6, 2
+  index: -1
+effects/zhuan_00005
+  rotate: true
+  xy: 205, 147
+  size: 125, 102
+  orig: 140, 105
+  offset: 10, 3
+  index: -1
+effects/zhuan_00006
+  rotate: true
+  xy: 165, 13
+  size: 127, 96
+  orig: 140, 105
+  offset: 7, 0
+  index: -1
+effects/zhuan_00007
+  rotate: false
+  xy: 389, 174
+  size: 118, 98
+  orig: 140, 105
+  offset: 15, 7
+  index: -1
+effects/zhuan_00008
+  rotate: true
+  xy: 263, 23
+  size: 122, 91
+  orig: 140, 105
+  offset: 9, 9
+  index: -1
+effects/zhuan_00009
+  rotate: true
+  xy: 309, 150
+  size: 122, 78
+  orig: 140, 105
+  offset: 7, 13
+  index: -1
+effects/zhuan_00010
+  rotate: true
+  xy: 356, 1
+  size: 102, 61
+  orig: 140, 105
+  offset: 7, 19
+  index: -1
+effects/zhuan_00011
+  rotate: false
+  xy: 419, 51
+  size: 73, 52
+  orig: 140, 105
+  offset: 28, 28
+  index: -1
+liulei
+  rotate: true
+  xy: 356, 109
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 419, 14
+  size: 59, 35
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 389, 105
+  size: 112, 67
+  orig: 112, 67
+  offset: 0, 0
+  index: -1
+wq
+  rotate: false
+  xy: 0, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 263, 4
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 165, 0
+  size: 11, 17
+  orig: 11, 20
+  offset: 0, 3
+  index: -1

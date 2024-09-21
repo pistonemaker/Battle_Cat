@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22546dafdb36a0a4b823fbfab6cb41e5, type: 3}
+  m_Name: Database
+  m_EditorClassIdentifier: 
+  cats:
+  - id: 1
+    cat: {fileID: 5016893337241438804, guid: ff352f32e24f4824aa7b2506080c92a9, type: 3}
+    waitTime: 10
+    summonCost: 5
+    hasOwn: 1
+    isUsed: 1
+  - id: 2
+    cat: {fileID: 1571681947896198487, guid: 72b78419d6f97234f9dbd6205c2f4154, type: 3}
+    waitTime: 8
+    summonCost: 10
+    hasOwn: 1
+    isUsed: 1
+  - id: 3
+    cat: {fileID: 8397538625696747451, guid: 419e7e9f40036b74d9a9a3f384d6aa8b, type: 3}
+    waitTime: 7
+    summonCost: 7
+    hasOwn: 1
+    isUsed: 1
+  - id: 4
+    cat: {fileID: 7626370563927806609, guid: 5518752597bf2794087f4eb63738430e, type: 3}
+    waitTime: 6
+    summonCost: 10
+    hasOwn: 1
+    isUsed: 1
+  monsters:
+  - id: 1
+    monster: {fileID: 590757489, guid: 6166908b19d705c4bb797be340cb8f13, type: 3}
+  - id: 2
+    monster: {fileID: 7843599585417338405, guid: 3f114b973881f964691d18953a0320aa, type: 3}
+  - id: 3
+    monster: {fileID: 8485422026989529912, guid: 7e9f5644334df3442b7c02d6c3fd4930, type: 3}
+  - id: 4
+    monster: {fileID: 1811119436923689098, guid: 4048151ead066a942b44086e5bb4f29f, type: 3}

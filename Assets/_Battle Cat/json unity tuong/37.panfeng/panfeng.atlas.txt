@@ -1,0 +1,104 @@
+
+panfeng.png
+size: 128,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shitou_0
+  rotate: true
+  xy: 62, 51
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+shitou_1
+  rotate: true
+  xy: 0, 0
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+shitou_10
+  rotate: true
+  xy: 62, 122
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+shitou_11
+  rotate: true
+  xy: 107, 150
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+shitou_12
+  rotate: true
+  xy: 62, 1
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+shitou_13
+  rotate: true
+  xy: 0, 47
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+shitou_2
+  rotate: true
+  xy: 90, 146
+  size: 54, 15
+  orig: 60, 15
+  offset: 0, 0
+  index: -1
+shitou_3
+  rotate: false
+  xy: 90, 202
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+shitou_4
+  rotate: false
+  xy: 107, 133
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+shitou_5
+  rotate: true
+  xy: 122, 167
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+shitou_6
+  rotate: true
+  xy: 0, 94
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+shitou_7
+  rotate: false
+  xy: 0, 154
+  size: 88, 81
+  orig: 88, 81
+  offset: 0, 0
+  index: -1
+shitou_8
+  rotate: false
+  xy: 87, 106
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+shitou_9
+  rotate: true
+  xy: 107, 177
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1

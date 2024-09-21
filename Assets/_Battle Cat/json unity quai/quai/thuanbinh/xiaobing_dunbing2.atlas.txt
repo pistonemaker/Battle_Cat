@@ -1,0 +1,118 @@
+
+xiaobing_dunbing2.png
+size: 208,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiji
+  rotate: false
+  xy: 148, 21
+  size: 30, 35
+  orig: 45, 35
+  offset: 6, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 207, 111
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gongji
+  rotate: false
+  xy: 207, 111
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+dun
+  rotate: false
+  xy: 106, 60
+  size: 52, 52
+  orig: 57, 52
+  offset: 2, 0
+  index: -1
+kuzi
+  rotate: false
+  xy: 0, 3
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 0, 30
+  size: 104, 82
+  orig: 104, 82
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 106, 18
+  size: 40, 40
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+youjian
+  rotate: false
+  xy: 180, 43
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 125, 0
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+youquan
+  rotate: true
+  xy: 160, 58
+  size: 54, 45
+  orig: 55, 45
+  offset: 1, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 173, 0
+  size: 19, 13
+  orig: 21, 13
+  offset: 2, 0
+  index: -1
+youwan
+  rotate: true
+  xy: 148, 0
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 45, 0
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 180, 28
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+zuoquan
+  rotate: true
+  xy: 63, 5
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 100, 0
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
